@@ -5,7 +5,6 @@ A web app that lets users log their secrets anonymously.
 Users can login localy or using their google account.
 One secret can be submitted per user.
 Submitted secret is kept anonymous.
-A nickname can be used while submitting the secret.
 
 Tech Stack Used
 MongoDB - Document database - to store data as JSON
