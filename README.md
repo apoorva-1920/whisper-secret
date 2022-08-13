@@ -2,6 +2,7 @@
 
 A web app that lets users log their secrets anonymously.
 
+App deployed on : [https://whispersecrets.herokuapp.com/](https://whispersecrets.herokuapp.com/)
 Users can login localy or using their google account.
 One secret can be submitted per user.
 Submitted secret is kept anonymous.
